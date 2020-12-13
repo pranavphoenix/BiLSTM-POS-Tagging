@@ -1,5 +1,5 @@
-# BiLSTM-POS-Tagging
-## Using Bi-LSTM to learn to tag the Parts of Speech in a sentence using NLTK Brown corpus Dataset.
+# BiLSTM-POS-Tagging 
+## Using Bi-LSTM to learn taging the Parts of Speech in a sentence using GloVe Embeddings and trained on NLTK Brown corpus Dataset.
 
 #### Corpus : Brown
 #### Tag set: Universal 
